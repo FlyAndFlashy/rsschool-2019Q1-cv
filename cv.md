@@ -3,9 +3,9 @@
 Беларусь, Минск.
 
 ## Контакты:
-Emai: 21587volodja@gmail.com
-Phone: +375(25)5483433
-Discord: fly and flashy
+Emai: 21587volodja@gmail.com 
+Phone: +375(25)5483433 
+Discord: fly and flashy 
 GitHub: flyandflashy
 
 ## My goal:
